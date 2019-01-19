@@ -1,7 +1,7 @@
-const mongoose = require('mongoose');
+const mongoose = require('mongoose');       
 
 mongoose.connect('mongodb://localhost/users_test');
-mongoose.connect
+mongoose.connection
     .once('open', () => console.log('Good to Go'))
     .on('error', (error) => {
         console.warn('Warning', error);
