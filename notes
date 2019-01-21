@@ -18,6 +18,9 @@ Mongoose is  a library that we are going to use to get a nice and eligent API to
 ------------------------------------------------------------
 npm install --save mocha nodemon mongoose
 ------------------------------------------------------------
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+https://studio3t.com/download-thank-you/?OS=x64
+https://robomongo.org/download
 
 
 
